@@ -4,6 +4,10 @@ A full-stack events management web application. Manage events by type, browse up
 
 ---
 
+## System design
+
+![Event Stack system design](event-stack-system-design.png)
+
 ## Tech Stack
 
 | Layer | Technology |
